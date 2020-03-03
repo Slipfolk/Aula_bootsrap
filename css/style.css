@@ -1,0 +1,29 @@
+ 
+
+.body{
+    font: 20px Arial;
+}
+.navbar {
+    background-color: #ACF1AC;
+    
+}
+
+.quem-somos {
+    background-color: #C0FCA6;
+    color: red;
+}
+
+.margin {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.produtos {
+    background-color:blue;
+    color:white;
+}
+
+.bg-footer {
+    background-color:black;
+    color: white;
+}
